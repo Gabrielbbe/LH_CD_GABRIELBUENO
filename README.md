@@ -24,5 +24,5 @@ pip install -r requirements.txt
 
 Para instalar as bibliotecas necessárias para rodar o notebook.
 
-O notebook LH_CD_GABRIELBUENO.ipynb contém todos os tópicos solicitados, o notebooks pt1.ipynb, pt2.ipynb e pt3.ipynb são os tópicos solicitados separadamente caso seja mais conveniente observar eles separadamente.  
+O notebook LH_CD_GABRIELBUENO.ipynb contém todos os tópicos solicitados, o notebooks pt1.ipynb, pt2.ipynb e pt3.ipynb são os tópicos solicitados separadamente para caso seja mais conveniente observar eles separadamente.  
 
