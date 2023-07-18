@@ -1,0 +1,31 @@
+ Objetivo analisar os dados para responder as perguntas feitas pelo cliente,
+e criar um modelo preditivo que precifique os carros do cliente de forma que eles fiquem o mais próximos dos valores do mercado.
+- Cada passo da análise deve ser claramente comunicada e explicada.
+o objetivo é prever a coluna preço dos carros, treinar ele com o dataset de treino e fazer previsão pra enviar com o dataset de tests.
+
+taks - 
+
+    1. análise das principais estatísticas da base de dados, com gráficos e suas principais estatísticas descritivas, explique o porque destas estatísticas e o que elas informam.
+R: é só olhar os dados, verificar se tem dados faltantes, ver quais os tipos da variáveis, e fazer análise descritiva.
+
+    2. Faça uma EDA, crie e responda 3 hipóiteses de negócio, além de responder as sequintes perguntas: R: fácil só pensar em 3 hipóteses importantes para os negócios.
+    --Qual o melhor estado para vender um carro de marca popular e por quê?
+fácil só verificar qual estado vende mais carro popular.
+    --Qual o melhor estado para se comprar uma picape com transmissão automática e por quê?
+R: fácil so ver qual estado vende mais dessa feature.
+    --Qual o melhor estado para se comprar carros que ainda estejam dentro da garantia de fábrica e por quê?
+R: //
+
+    3. Explique como você faria a previsão do preço a partir dos dados. Quais variáveis e/ou suas transformações você utilizou e por quê? Qual tipo de problema estamos resolvendo (regressão, classificação)? Qual modelo melhor se aproxima dos dados e quais seus prós e contras? Qual medida de performance do modelo foi escolhida e por quê?
+
+    4.  Envie o resultado final do modelo em uma planilha com apenas duas colunas (id, preco). 
+
+
+    5. A entrega deve ser feita através de um repositório de código público que contenha:
+README explicando como instalar e executar o projeto
+Arquivo de requisitos com todos os pacotes utilizados e suas versões
+Relatórios das análises estatísticas e EDA em PDF, Jupyter Notebook ou semelhante conforme passo 1 e 2.
+Códigos de modelagem utilizados no passo 3.
+Arquivo final com o nome predicted.csv conforme passo 4 acima.
+Todos os códigos produzidos devem seguir as boas práticas de codificação.
+
