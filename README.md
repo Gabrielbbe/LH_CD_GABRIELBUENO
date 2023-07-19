@@ -16,7 +16,7 @@ Abra o terminal onde desejar salvar os arquivos e digite:
 git clone https://github.com/Gabrielbbe/LH_CD_GABRIELBUENO.git
 ```
 
-Com o terminal aberto onde você salvou os arquivos digite:
+Abra o terminal na pasta LH_CD_GABRIELBUENO que foi baixada e digite:
 
 ```
 pip install -r requirements.txt
